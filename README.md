@@ -81,8 +81,8 @@
   <img src="https://img.icons8.com/fluency/48/github.png" width="40" height="40" title="GitHub"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/users/adityavikram-01">
-  <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="50" height="40" title="Discord"/>
+<!-- <a href="https://discord.com/users/adityavikram-01">
+  <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="50" height="40" title="Discord"/> -->
 </a>
 
 </div>

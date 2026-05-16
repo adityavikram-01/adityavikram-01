@@ -43,20 +43,12 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=adityavikram-01&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityavikram-01&theme=github_dark" alt="Stats" />
+![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=adityavikram-01&align=center&hide_trophies=true)
 </div>
 
 ---
 
-<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityavikram-01&theme=github_dark" alt="Profile Summary" width="95%"/>
-
-</div>
-
----
 
 
 ---

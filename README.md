@@ -43,10 +43,10 @@
 
 <div align="center">
 
-![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=adityavikram-01&align=center&hide_trophies=true)
-</div>
 
----
+
+![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=adityavikram-01&leetcode=adityavikram_01&align=center)
+</div>
 
 
 
